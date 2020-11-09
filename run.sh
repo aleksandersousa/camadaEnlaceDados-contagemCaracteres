@@ -1,0 +1,1 @@
+javac Principal.java && java Principal && rm -rf *.class && cd camadas && rm -rf *.class && cd camada_aplicacao && rm -rf *.class && cd .. && cd camada_enlace && rm -rf *.class && cd.. && cd.. && cd img && rm -rf *.class && cd .. && cd util && rm -rf *.class && cd .. && cd view && rm -rf *.class
